@@ -1,0 +1,112 @@
+[
+  {
+    "player_id_tm": "342229",
+    "nom": "Kylian Mbappé",
+    "url_source": "https://www.transfermarkt.com/kylian-mbappe/profil/spieler/342229",
+    "age": "Relatives",
+    "poste": "Attack - Centre-Forward",
+    "pied_fort": "right",
+    "club_actuel": "Real Madrid",
+    "historique_transferts": [],
+    "date_collecte": "2026-05-19T12:51:29.829884"
+  },
+  {
+    "player_id_tm": "418560",
+    "nom": "Erling Haaland",
+    "url_source": "https://www.transfermarkt.com/erling-haaland/profil/spieler/418560",
+    "age": "Rafaela Pimenta",
+    "poste": "Attack - Centre-Forward",
+    "pied_fort": "left",
+    "club_actuel": "Manchester City",
+    "historique_transferts": [],
+    "date_collecte": "2026-05-19T12:51:32.370257"
+  },
+  {
+    "player_id_tm": "581678",
+    "nom": "Jude Bellingham",
+    "url_source": "https://www.transfermarkt.com/jude-bellingham/profil/spieler/581678",
+    "age": "Relatives",
+    "poste": "Midfield - Attacking Midfield",
+    "pied_fort": "right",
+    "club_actuel": "Real Madrid",
+    "historique_transferts": [],
+    "date_collecte": "2026-05-19T12:51:36.225283"
+  },
+  {
+    "player_id_tm": "371998",
+    "nom": "Vinicius Junior",
+    "url_source": "https://www.transfermarkt.com/vinicius-junior/profil/spieler/371998",
+    "age": "Roc Nation Sports",
+    "poste": "Attack - Left Winger",
+    "pied_fort": "right",
+    "club_actuel": "Real Madrid",
+    "historique_transferts": [],
+    "date_collecte": "2026-05-19T12:51:39.629631"
+  },
+  {
+    "player_id_tm": "433177",
+    "nom": "Bukayo Saka",
+    "url_source": "https://www.transfermarkt.com/bukayo-saka/profil/spieler/433177",
+    "age": "Elite Project Group ...",
+    "poste": "Attack - Right Winger",
+    "pied_fort": "left",
+    "club_actuel": "Arsenal FC",
+    "historique_transferts": [],
+    "date_collecte": "2026-05-19T12:51:43.070696"
+  },
+  {
+    "player_id_tm": "580195",
+    "nom": "Jamal Musiala",
+    "url_source": "https://www.transfermarkt.com/jamal-musiala/profil/spieler/580195",
+    "age": "11WINS",
+    "poste": "Midfield - Attacking Midfield",
+    "pied_fort": "right",
+    "club_actuel": "Bayern Munich",
+    "historique_transferts": [],
+    "date_collecte": "2026-05-19T12:51:46.314529"
+  },
+  {
+    "player_id_tm": "937958",
+    "nom": "Lamine Yamal",
+    "url_source": "https://www.transfermarkt.com/lamine-yamal/profil/spieler/937958",
+    "age": "Gestifute",
+    "poste": "Attack - Right Winger",
+    "pied_fort": "left",
+    "club_actuel": "FC Barcelona",
+    "historique_transferts": [],
+    "date_collecte": "2026-05-19T12:51:48.684933"
+  },
+  {
+    "player_id_tm": "598577",
+    "nom": "Florian Wirtz",
+    "url_source": "https://www.transfermarkt.com/florian-wirtz/profil/spieler/598577",
+    "age": "Relatives",
+    "poste": "Midfield - Attacking Midfield",
+    "pied_fort": "right",
+    "club_actuel": "Liverpool FC",
+    "historique_transferts": [],
+    "date_collecte": "2026-05-19T12:51:51.428872"
+  },
+  {
+    "player_id_tm": "401923",
+    "nom": "Victor Osimhen",
+    "url_source": "https://www.transfermarkt.com/victor-osimhen/profil/spieler/401923",
+    "age": "29/12/1998 (27)",
+    "poste": "Attack - Centre-Forward",
+    "pied_fort": "right",
+    "club_actuel": "Galatasaray",
+    "historique_transferts": [],
+    "date_collecte": "2026-05-19T12:51:54.992945"
+  },
+  {
+    "player_id_tm": "148455",
+    "nom": "Mohamed Salah",
+    "url_source": "https://www.transfermarkt.com/mohamed-salah/profil/spieler/148455",
+    "age": "15/06/1992 (33)",
+    "poste": "Attack - Right Winger",
+    "pied_fort": "left",
+    "club_actuel": "Liverpool FC",
+    "historique_transferts": [],
+    "date_collecte": "2026-05-19T12:51:57.456078"
+  }
+]

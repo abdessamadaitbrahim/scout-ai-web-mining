@@ -1,0 +1,133 @@
+{
+  "top_hubs": [
+    {
+      "noeud": "SO FOOT",
+      "score_hub": 0.06261,
+      "type": "MEDIA"
+    },
+    {
+      "noeud": "dh.be",
+      "score_hub": 0.061538,
+      "type": "MEDIA"
+    },
+    {
+      "noeud": "BFMTV",
+      "score_hub": 0.052798,
+      "type": "MEDIA"
+    },
+    {
+      "noeud": "Franceinfo.fr",
+      "score_hub": 0.051574,
+      "type": "MEDIA"
+    },
+    {
+      "noeud": "BBC News",
+      "score_hub": 0.048954,
+      "type": "MEDIA"
+    },
+    {
+      "noeud": "Al Jazeera English",
+      "score_hub": 0.043836,
+      "type": "MEDIA"
+    },
+    {
+      "noeud": "Worldsoccertalk.com",
+      "score_hub": 0.035716,
+      "type": "MEDIA"
+    },
+    {
+      "noeud": "Lavenir.net",
+      "score_hub": 0.029179,
+      "type": "MEDIA"
+    },
+    {
+      "noeud": "Sky Sports",
+      "score_hub": 0.028603,
+      "type": "MEDIA"
+    },
+    {
+      "noeud": "Le Dauphiné Libéré",
+      "score_hub": 0.025941,
+      "type": "MEDIA"
+    }
+  ],
+  "top_authorities": [
+    {
+      "noeud": "Real Madrid",
+      "score_authority": 0.127793,
+      "type": "CLUB"
+    },
+    {
+      "noeud": "Arsenal",
+      "score_authority": 0.087838,
+      "type": "CLUB"
+    },
+    {
+      "noeud": "Bayern Munich",
+      "score_authority": 0.080763,
+      "type": "CLUB"
+    },
+    {
+      "noeud": "Kylian Mbappé",
+      "score_authority": 0.080446,
+      "type": "JOUEUR"
+    },
+    {
+      "noeud": "Lamine Yamal",
+      "score_authority": 0.075259,
+      "type": "JOUEUR"
+    },
+    {
+      "noeud": "Manchester City",
+      "score_authority": 0.07061,
+      "type": "CLUB"
+    },
+    {
+      "noeud": "PSG",
+      "score_authority": 0.058316,
+      "type": "CLUB"
+    },
+    {
+      "noeud": "Bukayo Saka",
+      "score_authority": 0.054666,
+      "type": "JOUEUR"
+    },
+    {
+      "noeud": "Liverpool",
+      "score_authority": 0.043868,
+      "type": "CLUB"
+    },
+    {
+      "noeud": "Mohamed Salah",
+      "score_authority": 0.04346,
+      "type": "JOUEUR"
+    }
+  ],
+  "top_hubs_media": [
+    {
+      "noeud": "SO FOOT",
+      "score_hub": 0.06261,
+      "type": "MEDIA"
+    },
+    {
+      "noeud": "dh.be",
+      "score_hub": 0.061538,
+      "type": "MEDIA"
+    },
+    {
+      "noeud": "BFMTV",
+      "score_hub": 0.052798,
+      "type": "MEDIA"
+    },
+    {
+      "noeud": "Franceinfo.fr",
+      "score_hub": 0.051574,
+      "type": "MEDIA"
+    },
+    {
+      "noeud": "BBC News",
+      "score_hub": 0.048954,
+      "type": "MEDIA"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+version: "3.8"
+
+# ============================================================
+# Scout-AI : Docker Compose - Bases de Données NoSQL
+# ============================================================
+# Usage:
+#   docker-compose up -d          → Lancer les 3 bases
+#   docker-compose ps             → Vérifier l'état
+#   docker-compose down           → Arrêter tout
+#   docker-compose down -v        → Arrêter + supprimer les données
+#
+# Ports:
+#   MongoDB       : localhost:27017
+#   Neo4J Browser : localhost:7474  (interface web)
+#   Neo4J Bolt    : localhost:7687  (connexion Python)
+#   ElasticSearch : localhost:9200
+# ============================================================
+
+services:
+
+  # ─────────────────────────────────────────────────────────
+  # MONGODB - Stockage principal (documents)
+  # ─────────────────────────────────────────────────────────
+  mongodb:
+    image: mongo:7.0
+    container_name: scout-ai-mongodb
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongodb_data:/data/db
+    environment:
+      # Pas d'authentification pour le développement
+      MONGO_INITDB_DATABASE: scout_ai
+    healthcheck:
+      test: ["CMD", "mongosh", "--eval", "db.adminCommand('ping')"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+
+  # ─────────────────────────────────────────────────────────
+  # NEO4J - Base de données graphe
+  # ─────────────────────────────────────────────────────────
+  neo4j:
+    image: neo4j:5-community
+    container_name: scout-ai-neo4j
+    restart: unless-stopped
+    ports:
+      - "7474:7474"   # Browser web
+      - "7687:7687"   # Bolt protocol
+    volumes:
+      - neo4j_data:/data
+    environment:
+      # Désactiver l'authentification pour le développement
+      NEO4J_AUTH: none
+      NEO4J_PLUGINS: '[]'
+      NEO4J_server_memory_heap_initial__size: "256m"
+      NEO4J_server_memory_heap_max__size: "512m"
+    healthcheck:
+      test: ["CMD", "neo4j", "status"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # ─────────────────────────────────────────────────────────
+  # ELASTICSEARCH - Recherche full-text
+  # ─────────────────────────────────────────────────────────
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.12.0
+    container_name: scout-ai-elasticsearch
+    restart: unless-stopped
+    ports:
+      - "9200:9200"
+    volumes:
+      - elastic_data:/usr/share/elasticsearch/data
+    environment:
+      # Mode single-node pour le développement
+      discovery.type: single-node
+      # Désactiver la sécurité pour le développement
+      xpack.security.enabled: "false"
+      xpack.security.http.ssl.enabled: "false"
+      # Limiter la mémoire
+      ES_JAVA_OPTS: "-Xms256m -Xmx512m"
+    healthcheck:
+      test: ["CMD-SHELL", "curl -s http://localhost:9200/_cluster/health | grep -q '\"status\":\"green\\|yellow\"'"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  mongodb_data:
+  neo4j_data:
+  elastic_data:

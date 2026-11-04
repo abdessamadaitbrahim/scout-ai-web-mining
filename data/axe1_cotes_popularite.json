@@ -1,0 +1,222 @@
+[
+  {
+    "joueur": "Kylian Mbappé",
+    "cote_popularite": 59.35,
+    "mentions": 33,
+    "sentiment_moyen": 1.91,
+    "diversite_sources": 13,
+    "sources": [
+      "Franceinfo.fr",
+      "Le HuffPost",
+      "Vanity Fair",
+      "Dazed",
+      "dh.be",
+      "Onefootball.com",
+      "Brickset.com",
+      "Courrier International",
+      "20 Minutes",
+      "BFMTV",
+      "Worldsoccertalk.com",
+      "Fox Sports",
+      "Managing Madrid"
+    ],
+    "distribution_sentiment": {
+      "positif": 5,
+      "neutre": 3,
+      "negatif": 25
+    },
+    "date_calcul": "2026-05-19T12:53:03.459449"
+  },
+  {
+    "joueur": "Lamine Yamal",
+    "cote_popularite": 53.29,
+    "mentions": 23,
+    "sentiment_moyen": 2.13,
+    "diversite_sources": 14,
+    "sources": [
+      "Franceinfo.fr",
+      "Israelnationalnews.com",
+      "CBS Sports",
+      "SO FOOT",
+      "Al Jazeera English",
+      "dh.be",
+      "Worldsoccertalk.com",
+      "Forbes",
+      "Onefootball.com",
+      "Le Dauphiné Libéré",
+      "Barca Blaugranes",
+      "BFMTV",
+      "Getfootballnewsspain.com",
+      "Yahoo Entertainment"
+    ],
+    "distribution_sentiment": {
+      "positif": 6,
+      "neutre": 1,
+      "negatif": 16
+    },
+    "date_calcul": "2026-05-19T12:53:03.463451"
+  },
+  {
+    "joueur": "Bukayo Saka",
+    "cote_popularite": 46.16,
+    "mentions": 12,
+    "sentiment_moyen": 3.75,
+    "diversite_sources": 5,
+    "sources": [
+      "SO FOOT",
+      "Al Jazeera English",
+      "Camer.be",
+      "BBC News",
+      "Sky Sports"
+    ],
+    "distribution_sentiment": {
+      "positif": 7,
+      "neutre": 4,
+      "negatif": 1
+    },
+    "date_calcul": "2026-05-19T12:53:03.461449"
+  },
+  {
+    "joueur": "Victor Osimhen",
+    "cote_popularite": 45.97,
+    "mentions": 21,
+    "sentiment_moyen": 2.62,
+    "diversite_sources": 6,
+    "sources": [
+      "SO FOOT",
+      "dh.be",
+      "The Punch",
+      "Vanguard",
+      "Lavenir.net",
+      "BBC News"
+    ],
+    "distribution_sentiment": {
+      "positif": 10,
+      "neutre": 0,
+      "negatif": 11
+    },
+    "date_calcul": "2026-05-19T12:53:03.464449"
+  },
+  {
+    "joueur": "Erling Haaland",
+    "cote_popularite": 45.57,
+    "mentions": 14,
+    "sentiment_moyen": 3.5,
+    "diversite_sources": 5,
+    "sources": [
+      "SO FOOT",
+      "Al Jazeera English",
+      "BBC News",
+      "BFMTV",
+      "Sky Sports"
+    ],
+    "distribution_sentiment": {
+      "positif": 10,
+      "neutre": 2,
+      "negatif": 2
+    },
+    "date_calcul": "2026-05-19T12:53:03.460449"
+  },
+  {
+    "joueur": "Jamal Musiala",
+    "cote_popularite": 43.57,
+    "mentions": 11,
+    "sentiment_moyen": 3.55,
+    "diversite_sources": 5,
+    "sources": [
+      "Bavarian Football Works",
+      "SO FOOT",
+      "Bulinews.com",
+      "dh.be",
+      "Lavenir.net"
+    ],
+    "distribution_sentiment": {
+      "positif": 7,
+      "neutre": 0,
+      "negatif": 4
+    },
+    "date_calcul": "2026-05-19T12:53:03.462472"
+  },
+  {
+    "joueur": "Mohamed Salah",
+    "cote_popularite": 37.92,
+    "mentions": 15,
+    "sentiment_moyen": 2.53,
+    "diversite_sources": 5,
+    "sources": [
+      "Al Jazeera English",
+      "BBC News",
+      "Yahoo Entertainment",
+      "BFMTV",
+      "Sky Sports"
+    ],
+    "distribution_sentiment": {
+      "positif": 6,
+      "neutre": 1,
+      "negatif": 8
+    },
+    "date_calcul": "2026-05-19T12:53:03.465451"
+  },
+  {
+    "joueur": "Vinicius Junior",
+    "cote_popularite": 37.3,
+    "mentions": 6,
+    "sentiment_moyen": 3.0,
+    "diversite_sources": 6,
+    "sources": [
+      "101 Great Goals",
+      "Al Jazeera English",
+      "dh.be",
+      "Vanguard",
+      "Forbes",
+      "Worldsoccertalk.com"
+    ],
+    "distribution_sentiment": {
+      "positif": 3,
+      "neutre": 1,
+      "negatif": 2
+    },
+    "date_calcul": "2026-05-19T12:53:03.461449"
+  },
+  {
+    "joueur": "Florian Wirtz",
+    "cote_popularite": 34.35,
+    "mentions": 7,
+    "sentiment_moyen": 2.86,
+    "diversite_sources": 5,
+    "sources": [
+      "Empire of The Kop",
+      "Dailymail.com",
+      "Footballtoday.com",
+      "Alloutsoccer.com",
+      "Yahoo Entertainment"
+    ],
+    "distribution_sentiment": {
+      "positif": 3,
+      "neutre": 0,
+      "negatif": 4
+    },
+    "date_calcul": "2026-05-19T12:53:03.463451"
+  },
+  {
+    "joueur": "Jude Bellingham",
+    "cote_popularite": 31.24,
+    "mentions": 8,
+    "sentiment_moyen": 2.12,
+    "diversite_sources": 6,
+    "sources": [
+      "SO FOOT",
+      "Getfootballnewsspain.com",
+      "BBC News",
+      "CNA",
+      "Worldsoccertalk.com",
+      "Yahoo Entertainment"
+    ],
+    "distribution_sentiment": {
+      "positif": 2,
+      "neutre": 1,
+      "negatif": 5
+    },
+    "date_calcul": "2026-05-19T12:53:03.460449"
+  }
+]

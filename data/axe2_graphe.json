@@ -1,0 +1,1655 @@
+{
+  "nodes": [
+    {
+      "id": "Kylian Mbappé",
+      "type": "JOUEUR",
+      "team": "Real Madrid",
+      "id_tm": "342229",
+      "valeur_marchande": "N/A"
+    },
+    {
+      "id": "Real Madrid",
+      "type": "CLUB",
+      "ligue": "La Liga"
+    },
+    {
+      "id": "Erling Haaland",
+      "type": "JOUEUR",
+      "team": "Manchester City",
+      "id_tm": "418560",
+      "valeur_marchande": "N/A"
+    },
+    {
+      "id": "Manchester City",
+      "type": "CLUB",
+      "ligue": "Premier League"
+    },
+    {
+      "id": "Jude Bellingham",
+      "type": "JOUEUR",
+      "team": "Real Madrid",
+      "id_tm": "581678",
+      "valeur_marchande": "N/A"
+    },
+    {
+      "id": "Vinicius Junior",
+      "type": "JOUEUR",
+      "team": "Real Madrid",
+      "id_tm": "371998",
+      "valeur_marchande": "N/A"
+    },
+    {
+      "id": "Bukayo Saka",
+      "type": "JOUEUR",
+      "team": "Arsenal",
+      "id_tm": "433177",
+      "valeur_marchande": "N/A"
+    },
+    {
+      "id": "Arsenal",
+      "type": "CLUB",
+      "ligue": "Premier League"
+    },
+    {
+      "id": "Jamal Musiala",
+      "type": "JOUEUR",
+      "team": "Bayern Munich",
+      "id_tm": "580195",
+      "valeur_marchande": "N/A"
+    },
+    {
+      "id": "Bayern Munich",
+      "type": "CLUB",
+      "ligue": "Bundesliga"
+    },
+    {
+      "id": "Lamine Yamal",
+      "type": "JOUEUR",
+      "team": "FC Barcelona",
+      "id_tm": "937958",
+      "valeur_marchande": "N/A"
+    },
+    {
+      "id": "FC Barcelona",
+      "type": "CLUB",
+      "ligue": "La Liga"
+    },
+    {
+      "id": "Florian Wirtz",
+      "type": "JOUEUR",
+      "team": "Bayer Leverkusen",
+      "id_tm": "598577",
+      "valeur_marchande": "N/A"
+    },
+    {
+      "id": "Bayer Leverkusen",
+      "type": "CLUB",
+      "ligue": "Bundesliga"
+    },
+    {
+      "id": "Victor Osimhen",
+      "type": "JOUEUR",
+      "team": "Galatasaray",
+      "id_tm": "401923",
+      "valeur_marchande": "N/A"
+    },
+    {
+      "id": "Galatasaray",
+      "type": "CLUB",
+      "ligue": "Süper Lig"
+    },
+    {
+      "id": "Mohamed Salah",
+      "type": "JOUEUR",
+      "team": "Liverpool",
+      "id_tm": "148455",
+      "valeur_marchande": "N/A"
+    },
+    {
+      "id": "Liverpool",
+      "type": "CLUB",
+      "ligue": "Premier League"
+    },
+    {
+      "id": "PSG",
+      "type": "CLUB"
+    },
+    {
+      "id": "Napoli",
+      "type": "CLUB"
+    },
+    {
+      "id": "Al-Ittihad",
+      "type": "CLUB"
+    },
+    {
+      "id": "Sky Sports",
+      "type": "MEDIA"
+    },
+    {
+      "id": "BILD",
+      "type": "MEDIA"
+    },
+    {
+      "id": "Kicker",
+      "type": "MEDIA"
+    },
+    {
+      "id": "The Athletic",
+      "type": "MEDIA"
+    },
+    {
+      "id": "Sport1",
+      "type": "MEDIA"
+    },
+    {
+      "id": "L'Équipe",
+      "type": "MEDIA"
+    },
+    {
+      "id": "SO FOOT",
+      "type": "MEDIA"
+    },
+    {
+      "id": "BFMTV",
+      "type": "MEDIA"
+    },
+    {
+      "id": "Franceinfo.fr",
+      "type": "MEDIA"
+    },
+    {
+      "id": "20 Minutes",
+      "type": "MEDIA"
+    },
+    {
+      "id": "Le HuffPost",
+      "type": "MEDIA"
+    },
+    {
+      "id": "Courrier International",
+      "type": "MEDIA"
+    },
+    {
+      "id": "Presse-citron",
+      "type": "MEDIA"
+    },
+    {
+      "id": "CNET",
+      "type": "MEDIA"
+    },
+    {
+      "id": "Fox Sports",
+      "type": "MEDIA"
+    },
+    {
+      "id": "Dazed",
+      "type": "MEDIA"
+    },
+    {
+      "id": "Vanity Fair",
+      "type": "MEDIA"
+    },
+    {
+      "id": "Brickset.com",
+      "type": "MEDIA"
+    },
+    {
+      "id": "101 Great Goals",
+      "type": "MEDIA"
+    },
+    {
+      "id": "Managing Madrid",
+      "type": "MEDIA"
+    },
+    {
+      "id": "Worldsoccertalk.com",
+      "type": "MEDIA"
+    },
+    {
+      "id": "Onefootball.com",
+      "type": "MEDIA"
+    },
+    {
+      "id": "dh.be",
+      "type": "MEDIA"
+    },
+    {
+      "id": "Lavenir.net",
+      "type": "MEDIA"
+    },
+    {
+      "id": "BBC News",
+      "type": "MEDIA"
+    },
+    {
+      "id": "Al Jazeera English",
+      "type": "MEDIA"
+    },
+    {
+      "id": "Challenges",
+      "type": "MEDIA"
+    },
+    {
+      "id": "Le Dauphiné Libéré",
+      "type": "MEDIA"
+    },
+    {
+      "id": "Forbes",
+      "type": "MEDIA"
+    },
+    {
+      "id": "CNA",
+      "type": "MEDIA"
+    },
+    {
+      "id": "Yahoo Entertainment",
+      "type": "MEDIA"
+    },
+    {
+      "id": "Getfootballnewsspain.com",
+      "type": "MEDIA"
+    },
+    {
+      "id": "Lalibre.be",
+      "type": "MEDIA"
+    },
+    {
+      "id": "Vanguard",
+      "type": "MEDIA"
+    },
+    {
+      "id": "Camer.be",
+      "type": "MEDIA"
+    },
+    {
+      "id": "CBS Sports",
+      "type": "MEDIA"
+    },
+    {
+      "id": "Bavarian Football Works",
+      "type": "MEDIA"
+    },
+    {
+      "id": "Bulinews.com",
+      "type": "MEDIA"
+    },
+    {
+      "id": "Getfootballnewsgermany.com",
+      "type": "MEDIA"
+    },
+    {
+      "id": "Dpa-international.com",
+      "type": "MEDIA"
+    },
+    {
+      "id": "Get French Football News",
+      "type": "MEDIA"
+    },
+    {
+      "id": "Israelnationalnews.com",
+      "type": "MEDIA"
+    },
+    {
+      "id": "Barca Blaugranes",
+      "type": "MEDIA"
+    },
+    {
+      "id": "Footballtoday.com",
+      "type": "MEDIA"
+    },
+    {
+      "id": "Empire of The Kop",
+      "type": "MEDIA"
+    },
+    {
+      "id": "Alloutsoccer.com",
+      "type": "MEDIA"
+    },
+    {
+      "id": "Anfieldwatch.co.uk",
+      "type": "MEDIA"
+    },
+    {
+      "id": "Dailymail.com",
+      "type": "MEDIA"
+    },
+    {
+      "id": "The Punch",
+      "type": "MEDIA"
+    },
+    {
+      "id": "The Football Faithful",
+      "type": "MEDIA"
+    },
+    {
+      "id": "Premier League",
+      "type": "LIGUE",
+      "code": "PL"
+    },
+    {
+      "id": "La Liga",
+      "type": "LIGUE",
+      "code": "PD"
+    },
+    {
+      "id": "Bundesliga",
+      "type": "LIGUE",
+      "code": "BL1"
+    },
+    {
+      "id": "Serie A",
+      "type": "LIGUE",
+      "code": "SA"
+    },
+    {
+      "id": "Ligue 1",
+      "type": "LIGUE",
+      "code": "FL1"
+    },
+    {
+      "id": "Jorge Mendes (Gestifute)",
+      "type": "AGENT"
+    },
+    {
+      "id": "Mino Raiola Legacy",
+      "type": "AGENT"
+    },
+    {
+      "id": "Badou Sambague",
+      "type": "AGENT"
+    },
+    {
+      "id": "CAA Stellar",
+      "type": "AGENT"
+    },
+    {
+      "id": "Rogon Sportmanagement",
+      "type": "AGENT"
+    }
+  ],
+  "edges": [
+    {
+      "source": "Kylian Mbappé",
+      "target": "Real Madrid",
+      "relation": "JOUE_POUR",
+      "poids": 1.0,
+      "depuis": "2024"
+    },
+    {
+      "source": "Real Madrid",
+      "target": "La Liga",
+      "relation": "COMPETE_DANS",
+      "poids": 1.0
+    },
+    {
+      "source": "Erling Haaland",
+      "target": "Manchester City",
+      "relation": "JOUE_POUR",
+      "poids": 1.0,
+      "depuis": "2024"
+    },
+    {
+      "source": "Manchester City",
+      "target": "Premier League",
+      "relation": "COMPETE_DANS",
+      "poids": 1.0
+    },
+    {
+      "source": "Jude Bellingham",
+      "target": "Real Madrid",
+      "relation": "JOUE_POUR",
+      "poids": 1.0,
+      "depuis": "2024"
+    },
+    {
+      "source": "Vinicius Junior",
+      "target": "Real Madrid",
+      "relation": "JOUE_POUR",
+      "poids": 1.0,
+      "depuis": "2024"
+    },
+    {
+      "source": "Bukayo Saka",
+      "target": "Arsenal",
+      "relation": "JOUE_POUR",
+      "poids": 1.0,
+      "depuis": "2024"
+    },
+    {
+      "source": "The Athletic",
+      "target": "Manchester City",
+      "relation": "RUMEUR",
+      "joueur": "Bukayo Saka",
+      "montant": "",
+      "fiabilite": 0.3,
+      "poids": 0.3
+    },
+    {
+      "source": "Arsenal",
+      "target": "Premier League",
+      "relation": "COMPETE_DANS",
+      "poids": 1.0
+    },
+    {
+      "source": "Jamal Musiala",
+      "target": "Bayern Munich",
+      "relation": "JOUE_POUR",
+      "poids": 1.0,
+      "depuis": "2024"
+    },
+    {
+      "source": "Sport1",
+      "target": "Manchester City",
+      "relation": "RUMEUR",
+      "joueur": "Jamal Musiala",
+      "montant": "",
+      "fiabilite": 0.4,
+      "poids": 0.4
+    },
+    {
+      "source": "Bayern Munich",
+      "target": "Bundesliga",
+      "relation": "COMPETE_DANS",
+      "poids": 1.0
+    },
+    {
+      "source": "Lamine Yamal",
+      "target": "FC Barcelona",
+      "relation": "JOUE_POUR",
+      "poids": 1.0,
+      "depuis": "2024"
+    },
+    {
+      "source": "L'Équipe",
+      "target": "PSG",
+      "relation": "RUMEUR",
+      "joueur": "Lamine Yamal",
+      "montant": "",
+      "fiabilite": 0.2,
+      "poids": 0.2
+    },
+    {
+      "source": "FC Barcelona",
+      "target": "La Liga",
+      "relation": "COMPETE_DANS",
+      "poids": 1.0
+    },
+    {
+      "source": "Florian Wirtz",
+      "target": "Bayer Leverkusen",
+      "relation": "JOUE_POUR",
+      "poids": 1.0,
+      "depuis": "2024"
+    },
+    {
+      "source": "BILD",
+      "target": "Real Madrid",
+      "relation": "RUMEUR",
+      "joueur": "Florian Wirtz",
+      "montant": "",
+      "fiabilite": 0.7,
+      "poids": 0.7
+    },
+    {
+      "source": "Kicker",
+      "target": "Bayern Munich",
+      "relation": "RUMEUR",
+      "joueur": "Florian Wirtz",
+      "montant": "",
+      "fiabilite": 0.5,
+      "poids": 0.5
+    },
+    {
+      "source": "Bayer Leverkusen",
+      "target": "Bundesliga",
+      "relation": "COMPETE_DANS",
+      "poids": 1.0
+    },
+    {
+      "source": "Victor Osimhen",
+      "target": "Galatasaray",
+      "relation": "JOUE_POUR",
+      "poids": 1.0,
+      "depuis": "2024"
+    },
+    {
+      "source": "Mohamed Salah",
+      "target": "Liverpool",
+      "relation": "JOUE_POUR",
+      "poids": 1.0,
+      "depuis": "2024"
+    },
+    {
+      "source": "Sky Sports",
+      "target": "Al-Ittihad",
+      "relation": "RUMEUR",
+      "joueur": "Mohamed Salah",
+      "montant": "",
+      "fiabilite": 0.6,
+      "poids": 0.6
+    },
+    {
+      "source": "Liverpool",
+      "target": "Premier League",
+      "relation": "COMPETE_DANS",
+      "poids": 1.0
+    },
+    {
+      "source": "",
+      "target": "Real Madrid",
+      "relation": "TRANSFERT",
+      "joueur": "Kylian Mbappé",
+      "montant": "Libre",
+      "fiabilite": 1.0,
+      "poids": 1.0
+    },
+    {
+      "source": "",
+      "target": "Galatasaray",
+      "relation": "TRANSFERT",
+      "joueur": "Victor Osimhen",
+      "montant": "Prêt",
+      "fiabilite": 1.0,
+      "poids": 1.0
+    },
+    {
+      "source": "Sky Sports",
+      "target": "Al-Ittihad",
+      "relation": "COUVRE_RUMEUR",
+      "joueur": "Mohamed Salah",
+      "fiabilite": 0.6,
+      "poids": 0.6
+    },
+    {
+      "source": "Sky Sports",
+      "target": "Erling Haaland",
+      "relation": "MENTIONNE",
+      "poids": 1.2
+    },
+    {
+      "source": "Sky Sports",
+      "target": "Manchester City",
+      "relation": "COUVRE",
+      "poids": 1.2
+    },
+    {
+      "source": "Sky Sports",
+      "target": "Arsenal",
+      "relation": "COUVRE",
+      "poids": 2.9000000000000012
+    },
+    {
+      "source": "Sky Sports",
+      "target": "Sky Sports",
+      "relation": "COUVRE",
+      "poids": 0.7999999999999999
+    },
+    {
+      "source": "Sky Sports",
+      "target": "Bukayo Saka",
+      "relation": "MENTIONNE",
+      "poids": 0.5
+    },
+    {
+      "source": "Sky Sports",
+      "target": "PSG",
+      "relation": "COUVRE",
+      "poids": 0.5
+    },
+    {
+      "source": "Sky Sports",
+      "target": "Mohamed Salah",
+      "relation": "MENTIONNE",
+      "poids": 0.5
+    },
+    {
+      "source": "Sky Sports",
+      "target": "Florian Wirtz",
+      "relation": "MENTIONNE",
+      "poids": 0.5
+    },
+    {
+      "source": "BILD",
+      "target": "Real Madrid",
+      "relation": "COUVRE_RUMEUR",
+      "joueur": "Florian Wirtz",
+      "fiabilite": 0.7,
+      "poids": 0.7
+    },
+    {
+      "source": "Kicker",
+      "target": "Bayern Munich",
+      "relation": "COUVRE_RUMEUR",
+      "joueur": "Florian Wirtz",
+      "fiabilite": 0.5,
+      "poids": 0.5
+    },
+    {
+      "source": "The Athletic",
+      "target": "Manchester City",
+      "relation": "COUVRE_RUMEUR",
+      "joueur": "Bukayo Saka",
+      "fiabilite": 0.3,
+      "poids": 0.3
+    },
+    {
+      "source": "Sport1",
+      "target": "Manchester City",
+      "relation": "COUVRE_RUMEUR",
+      "joueur": "Jamal Musiala",
+      "fiabilite": 0.4,
+      "poids": 0.4
+    },
+    {
+      "source": "L'Équipe",
+      "target": "PSG",
+      "relation": "COUVRE_RUMEUR",
+      "joueur": "Lamine Yamal",
+      "fiabilite": 0.2,
+      "poids": 0.2
+    },
+    {
+      "source": "SO FOOT",
+      "target": "PSG",
+      "relation": "COUVRE",
+      "poids": 1.4000000000000001
+    },
+    {
+      "source": "SO FOOT",
+      "target": "Kylian Mbappé",
+      "relation": "MENTIONNE",
+      "poids": 0.5
+    },
+    {
+      "source": "SO FOOT",
+      "target": "Real Madrid",
+      "relation": "COUVRE",
+      "poids": 1.6000000000000003
+    },
+    {
+      "source": "SO FOOT",
+      "target": "Erling Haaland",
+      "relation": "MENTIONNE",
+      "poids": 0.7
+    },
+    {
+      "source": "SO FOOT",
+      "target": "Manchester City",
+      "relation": "COUVRE",
+      "poids": 0.9999999999999999
+    },
+    {
+      "source": "SO FOOT",
+      "target": "Jude Bellingham",
+      "relation": "MENTIONNE",
+      "poids": 0.7
+    },
+    {
+      "source": "SO FOOT",
+      "target": "Lamine Yamal",
+      "relation": "MENTIONNE",
+      "poids": 1.0999999999999999
+    },
+    {
+      "source": "SO FOOT",
+      "target": "Bukayo Saka",
+      "relation": "MENTIONNE",
+      "poids": 1.2
+    },
+    {
+      "source": "SO FOOT",
+      "target": "Arsenal",
+      "relation": "COUVRE",
+      "poids": 2.700000000000001
+    },
+    {
+      "source": "SO FOOT",
+      "target": "Bayern Munich",
+      "relation": "COUVRE",
+      "poids": 1.3
+    },
+    {
+      "source": "SO FOOT",
+      "target": "Victor Osimhen",
+      "relation": "MENTIONNE",
+      "poids": 0.5
+    },
+    {
+      "source": "SO FOOT",
+      "target": "Galatasaray",
+      "relation": "COUVRE",
+      "poids": 0.7
+    },
+    {
+      "source": "SO FOOT",
+      "target": "Liverpool",
+      "relation": "COUVRE",
+      "poids": 0.7
+    },
+    {
+      "source": "BFMTV",
+      "target": "Kylian Mbappé",
+      "relation": "MENTIONNE",
+      "poids": 0.9999999999999999
+    },
+    {
+      "source": "BFMTV",
+      "target": "PSG",
+      "relation": "COUVRE",
+      "poids": 1.7000000000000004
+    },
+    {
+      "source": "BFMTV",
+      "target": "Bayern Munich",
+      "relation": "COUVRE",
+      "poids": 1.8000000000000005
+    },
+    {
+      "source": "BFMTV",
+      "target": "Erling Haaland",
+      "relation": "MENTIONNE",
+      "poids": 0.7999999999999999
+    },
+    {
+      "source": "BFMTV",
+      "target": "Manchester City",
+      "relation": "COUVRE",
+      "poids": 0.5
+    },
+    {
+      "source": "BFMTV",
+      "target": "Arsenal",
+      "relation": "COUVRE",
+      "poids": 0.9999999999999999
+    },
+    {
+      "source": "BFMTV",
+      "target": "Lamine Yamal",
+      "relation": "MENTIONNE",
+      "poids": 0.9999999999999999
+    },
+    {
+      "source": "BFMTV",
+      "target": "Real Madrid",
+      "relation": "COUVRE",
+      "poids": 2.600000000000001
+    },
+    {
+      "source": "BFMTV",
+      "target": "Vinicius Junior",
+      "relation": "MENTIONNE",
+      "poids": 0.5
+    },
+    {
+      "source": "BFMTV",
+      "target": "Mohamed Salah",
+      "relation": "MENTIONNE",
+      "poids": 0.6
+    },
+    {
+      "source": "Franceinfo.fr",
+      "target": "Kylian Mbappé",
+      "relation": "MENTIONNE",
+      "poids": 0.6
+    },
+    {
+      "source": "Franceinfo.fr",
+      "target": "Real Madrid",
+      "relation": "COUVRE",
+      "poids": 0.5
+    },
+    {
+      "source": "Franceinfo.fr",
+      "target": "Manchester City",
+      "relation": "COUVRE",
+      "poids": 0.7999999999999999
+    },
+    {
+      "source": "Franceinfo.fr",
+      "target": "Arsenal",
+      "relation": "COUVRE",
+      "poids": 0.9999999999999999
+    },
+    {
+      "source": "Franceinfo.fr",
+      "target": "Bukayo Saka",
+      "relation": "MENTIONNE",
+      "poids": 0.5
+    },
+    {
+      "source": "Franceinfo.fr",
+      "target": "PSG",
+      "relation": "COUVRE",
+      "poids": 0.6
+    },
+    {
+      "source": "Franceinfo.fr",
+      "target": "Bayern Munich",
+      "relation": "COUVRE",
+      "poids": 0.6
+    },
+    {
+      "source": "Franceinfo.fr",
+      "target": "Lamine Yamal",
+      "relation": "MENTIONNE",
+      "poids": 0.6
+    },
+    {
+      "source": "Franceinfo.fr",
+      "target": "Liverpool",
+      "relation": "COUVRE",
+      "poids": 0.6
+    },
+    {
+      "source": "20 Minutes",
+      "target": "Kylian Mbappé",
+      "relation": "MENTIONNE",
+      "poids": 1.8000000000000005
+    },
+    {
+      "source": "20 Minutes",
+      "target": "Real Madrid",
+      "relation": "COUVRE",
+      "poids": 2.1000000000000005
+    },
+    {
+      "source": "20 Minutes",
+      "target": "Arsenal",
+      "relation": "COUVRE",
+      "poids": 0.6
+    },
+    {
+      "source": "Le HuffPost",
+      "target": "Kylian Mbappé",
+      "relation": "MENTIONNE",
+      "poids": 1.0999999999999999
+    },
+    {
+      "source": "Le HuffPost",
+      "target": "Real Madrid",
+      "relation": "COUVRE",
+      "poids": 1.0999999999999999
+    },
+    {
+      "source": "Le HuffPost",
+      "target": "Le HuffPost",
+      "relation": "COUVRE",
+      "poids": 0.7
+    },
+    {
+      "source": "Courrier International",
+      "target": "Kylian Mbappé",
+      "relation": "MENTIONNE",
+      "poids": 0.5
+    },
+    {
+      "source": "Courrier International",
+      "target": "Real Madrid",
+      "relation": "COUVRE",
+      "poids": 0.5
+    },
+    {
+      "source": "Presse-citron",
+      "target": "Bayern Munich",
+      "relation": "COUVRE",
+      "poids": 0.5
+    },
+    {
+      "source": "Presse-citron",
+      "target": "PSG",
+      "relation": "COUVRE",
+      "poids": 0.6
+    },
+    {
+      "source": "CNET",
+      "target": "Real Madrid",
+      "relation": "COUVRE",
+      "poids": 0.7
+    },
+    {
+      "source": "CNET",
+      "target": "Liverpool",
+      "relation": "COUVRE",
+      "poids": 0.7
+    },
+    {
+      "source": "CNET",
+      "target": "Arsenal",
+      "relation": "COUVRE",
+      "poids": 0.5
+    },
+    {
+      "source": "Fox Sports",
+      "target": "Kylian Mbappé",
+      "relation": "MENTIONNE",
+      "poids": 1.6000000000000003
+    },
+    {
+      "source": "Fox Sports",
+      "target": "Real Madrid",
+      "relation": "COUVRE",
+      "poids": 1.2
+    },
+    {
+      "source": "Dazed",
+      "target": "Kylian Mbappé",
+      "relation": "MENTIONNE",
+      "poids": 0.6
+    },
+    {
+      "source": "Dazed",
+      "target": "Real Madrid",
+      "relation": "COUVRE",
+      "poids": 0.5
+    },
+    {
+      "source": "Vanity Fair",
+      "target": "Kylian Mbappé",
+      "relation": "MENTIONNE",
+      "poids": 0.6
+    },
+    {
+      "source": "Brickset.com",
+      "target": "Kylian Mbappé",
+      "relation": "MENTIONNE",
+      "poids": 0.5
+    },
+    {
+      "source": "Brickset.com",
+      "target": "PSG",
+      "relation": "COUVRE",
+      "poids": 0.6
+    },
+    {
+      "source": "Brickset.com",
+      "target": "Real Madrid",
+      "relation": "COUVRE",
+      "poids": 0.6
+    },
+    {
+      "source": "101 Great Goals",
+      "target": "Real Madrid",
+      "relation": "COUVRE",
+      "poids": 1.3
+    },
+    {
+      "source": "101 Great Goals",
+      "target": "Vinicius Junior",
+      "relation": "MENTIONNE",
+      "poids": 0.5
+    },
+    {
+      "source": "Managing Madrid",
+      "target": "Kylian Mbappé",
+      "relation": "MENTIONNE",
+      "poids": 0.6
+    },
+    {
+      "source": "Managing Madrid",
+      "target": "Real Madrid",
+      "relation": "COUVRE",
+      "poids": 0.7
+    },
+    {
+      "source": "Worldsoccertalk.com",
+      "target": "Kylian Mbappé",
+      "relation": "MENTIONNE",
+      "poids": 0.7999999999999999
+    },
+    {
+      "source": "Worldsoccertalk.com",
+      "target": "Real Madrid",
+      "relation": "COUVRE",
+      "poids": 1.7000000000000004
+    },
+    {
+      "source": "Worldsoccertalk.com",
+      "target": "Jude Bellingham",
+      "relation": "MENTIONNE",
+      "poids": 0.6
+    },
+    {
+      "source": "Worldsoccertalk.com",
+      "target": "Bayern Munich",
+      "relation": "COUVRE",
+      "poids": 0.9999999999999999
+    },
+    {
+      "source": "Worldsoccertalk.com",
+      "target": "PSG",
+      "relation": "COUVRE",
+      "poids": 0.7999999999999999
+    },
+    {
+      "source": "Worldsoccertalk.com",
+      "target": "Lamine Yamal",
+      "relation": "MENTIONNE",
+      "poids": 2.3000000000000007
+    },
+    {
+      "source": "Worldsoccertalk.com",
+      "target": "FC Barcelona",
+      "relation": "COUVRE",
+      "poids": 0.7
+    },
+    {
+      "source": "Onefootball.com",
+      "target": "Kylian Mbappé",
+      "relation": "MENTIONNE",
+      "poids": 0.6
+    },
+    {
+      "source": "Onefootball.com",
+      "target": "Real Madrid",
+      "relation": "COUVRE",
+      "poids": 0.5
+    },
+    {
+      "source": "Onefootball.com",
+      "target": "Lamine Yamal",
+      "relation": "MENTIONNE",
+      "poids": 0.7
+    },
+    {
+      "source": "Onefootball.com",
+      "target": "FC Barcelona",
+      "relation": "COUVRE",
+      "poids": 0.6
+    },
+    {
+      "source": "dh.be",
+      "target": "Manchester City",
+      "relation": "COUVRE",
+      "poids": 0.7
+    },
+    {
+      "source": "dh.be",
+      "target": "Arsenal",
+      "relation": "COUVRE",
+      "poids": 1.0999999999999999
+    },
+    {
+      "source": "dh.be",
+      "target": "Real Madrid",
+      "relation": "COUVRE",
+      "poids": 1.5000000000000002
+    },
+    {
+      "source": "dh.be",
+      "target": "Kylian Mbappé",
+      "relation": "MENTIONNE",
+      "poids": 0.7
+    },
+    {
+      "source": "dh.be",
+      "target": "Lamine Yamal",
+      "relation": "MENTIONNE",
+      "poids": 0.5
+    },
+    {
+      "source": "dh.be",
+      "target": "Bayern Munich",
+      "relation": "COUVRE",
+      "poids": 0.7
+    },
+    {
+      "source": "dh.be",
+      "target": "Vinicius Junior",
+      "relation": "MENTIONNE",
+      "poids": 0.5
+    },
+    {
+      "source": "dh.be",
+      "target": "Bukayo Saka",
+      "relation": "MENTIONNE",
+      "poids": 0.6
+    },
+    {
+      "source": "dh.be",
+      "target": "BILD",
+      "relation": "COUVRE",
+      "poids": 0.5
+    },
+    {
+      "source": "dh.be",
+      "target": "Jamal Musiala",
+      "relation": "MENTIONNE",
+      "poids": 0.5
+    },
+    {
+      "source": "dh.be",
+      "target": "Victor Osimhen",
+      "relation": "MENTIONNE",
+      "poids": 0.5
+    },
+    {
+      "source": "dh.be",
+      "target": "Galatasaray",
+      "relation": "COUVRE",
+      "poids": 0.7
+    },
+    {
+      "source": "dh.be",
+      "target": "Mohamed Salah",
+      "relation": "MENTIONNE",
+      "poids": 0.5
+    },
+    {
+      "source": "dh.be",
+      "target": "Liverpool",
+      "relation": "COUVRE",
+      "poids": 0.7
+    },
+    {
+      "source": "Lavenir.net",
+      "target": "Manchester City",
+      "relation": "COUVRE",
+      "poids": 0.6
+    },
+    {
+      "source": "Lavenir.net",
+      "target": "Arsenal",
+      "relation": "COUVRE",
+      "poids": 0.5
+    },
+    {
+      "source": "Lavenir.net",
+      "target": "Real Madrid",
+      "relation": "COUVRE",
+      "poids": 0.6
+    },
+    {
+      "source": "Lavenir.net",
+      "target": "Jamal Musiala",
+      "relation": "MENTIONNE",
+      "poids": 0.5
+    },
+    {
+      "source": "Lavenir.net",
+      "target": "Victor Osimhen",
+      "relation": "MENTIONNE",
+      "poids": 0.5
+    },
+    {
+      "source": "Lavenir.net",
+      "target": "Galatasaray",
+      "relation": "COUVRE",
+      "poids": 0.7
+    },
+    {
+      "source": "BBC News",
+      "target": "Erling Haaland",
+      "relation": "MENTIONNE",
+      "poids": 1.0999999999999999
+    },
+    {
+      "source": "BBC News",
+      "target": "Manchester City",
+      "relation": "COUVRE",
+      "poids": 0.7999999999999999
+    },
+    {
+      "source": "BBC News",
+      "target": "Arsenal",
+      "relation": "COUVRE",
+      "poids": 3.0000000000000013
+    },
+    {
+      "source": "BBC News",
+      "target": "Jude Bellingham",
+      "relation": "MENTIONNE",
+      "poids": 0.9999999999999999
+    },
+    {
+      "source": "BBC News",
+      "target": "Real Madrid",
+      "relation": "COUVRE",
+      "poids": 0.7
+    },
+    {
+      "source": "BBC News",
+      "target": "Napoli",
+      "relation": "MENTIONNE",
+      "poids": 0.7
+    },
+    {
+      "source": "BBC News",
+      "target": "Bukayo Saka",
+      "relation": "MENTIONNE",
+      "poids": 0.9999999999999999
+    },
+    {
+      "source": "BBC News",
+      "target": "Mohamed Salah",
+      "relation": "MENTIONNE",
+      "poids": 2.2000000000000006
+    },
+    {
+      "source": "BBC News",
+      "target": "Florian Wirtz",
+      "relation": "MENTIONNE",
+      "poids": 0.6
+    },
+    {
+      "source": "BBC News",
+      "target": "Victor Osimhen",
+      "relation": "MENTIONNE",
+      "poids": 0.6
+    },
+    {
+      "source": "BBC News",
+      "target": "Liverpool",
+      "relation": "COUVRE",
+      "poids": 0.6
+    },
+    {
+      "source": "BBC News",
+      "target": "Bayern Munich",
+      "relation": "COUVRE",
+      "poids": 0.6
+    },
+    {
+      "source": "Al Jazeera English",
+      "target": "Arsenal",
+      "relation": "COUVRE",
+      "poids": 2.600000000000001
+    },
+    {
+      "source": "Al Jazeera English",
+      "target": "Manchester City",
+      "relation": "COUVRE",
+      "poids": 0.7999999999999999
+    },
+    {
+      "source": "Al Jazeera English",
+      "target": "Real Madrid",
+      "relation": "COUVRE",
+      "poids": 2.0000000000000004
+    },
+    {
+      "source": "Al Jazeera English",
+      "target": "Vinicius Junior",
+      "relation": "MENTIONNE",
+      "poids": 0.5
+    },
+    {
+      "source": "Al Jazeera English",
+      "target": "Bukayo Saka",
+      "relation": "MENTIONNE",
+      "poids": 0.7
+    },
+    {
+      "source": "Al Jazeera English",
+      "target": "Bayern Munich",
+      "relation": "COUVRE",
+      "poids": 0.6
+    },
+    {
+      "source": "Al Jazeera English",
+      "target": "Lamine Yamal",
+      "relation": "MENTIONNE",
+      "poids": 0.7
+    },
+    {
+      "source": "Al Jazeera English",
+      "target": "Mohamed Salah",
+      "relation": "MENTIONNE",
+      "poids": 1.0999999999999999
+    },
+    {
+      "source": "Challenges",
+      "target": "Kylian Mbappé",
+      "relation": "MENTIONNE",
+      "poids": 0.5
+    },
+    {
+      "source": "Challenges",
+      "target": "Real Madrid",
+      "relation": "COUVRE",
+      "poids": 0.5
+    },
+    {
+      "source": "Le Dauphiné Libéré",
+      "target": "Kylian Mbappé",
+      "relation": "MENTIONNE",
+      "poids": 0.5
+    },
+    {
+      "source": "Le Dauphiné Libéré",
+      "target": "Real Madrid",
+      "relation": "COUVRE",
+      "poids": 0.5
+    },
+    {
+      "source": "Le Dauphiné Libéré",
+      "target": "Lamine Yamal",
+      "relation": "MENTIONNE",
+      "poids": 0.5
+    },
+    {
+      "source": "Le Dauphiné Libéré",
+      "target": "PSG",
+      "relation": "COUVRE",
+      "poids": 0.5
+    },
+    {
+      "source": "Forbes",
+      "target": "Vinicius Junior",
+      "relation": "MENTIONNE",
+      "poids": 0.6
+    },
+    {
+      "source": "Forbes",
+      "target": "Real Madrid",
+      "relation": "COUVRE",
+      "poids": 0.6
+    },
+    {
+      "source": "Forbes",
+      "target": "Lamine Yamal",
+      "relation": "MENTIONNE",
+      "poids": 1.0999999999999999
+    },
+    {
+      "source": "CNA",
+      "target": "Jude Bellingham",
+      "relation": "MENTIONNE",
+      "poids": 0.6
+    },
+    {
+      "source": "CNA",
+      "target": "Bayern Munich",
+      "relation": "COUVRE",
+      "poids": 0.8999999999999999
+    },
+    {
+      "source": "Yahoo Entertainment",
+      "target": "Jude Bellingham",
+      "relation": "MENTIONNE",
+      "poids": 0.6
+    },
+    {
+      "source": "Yahoo Entertainment",
+      "target": "Lamine Yamal",
+      "relation": "MENTIONNE",
+      "poids": 0.6
+    },
+    {
+      "source": "Yahoo Entertainment",
+      "target": "FC Barcelona",
+      "relation": "COUVRE",
+      "poids": 0.6
+    },
+    {
+      "source": "Yahoo Entertainment",
+      "target": "Florian Wirtz",
+      "relation": "MENTIONNE",
+      "poids": 0.6
+    },
+    {
+      "source": "Yahoo Entertainment",
+      "target": "Bayer Leverkusen",
+      "relation": "COUVRE",
+      "poids": 0.5
+    },
+    {
+      "source": "Yahoo Entertainment",
+      "target": "Mohamed Salah",
+      "relation": "MENTIONNE",
+      "poids": 0.6
+    },
+    {
+      "source": "Getfootballnewsspain.com",
+      "target": "Lamine Yamal",
+      "relation": "MENTIONNE",
+      "poids": 0.7
+    },
+    {
+      "source": "Getfootballnewsspain.com",
+      "target": "Jude Bellingham",
+      "relation": "MENTIONNE",
+      "poids": 0.7
+    },
+    {
+      "source": "Vanguard",
+      "target": "Vinicius Junior",
+      "relation": "MENTIONNE",
+      "poids": 0.5
+    },
+    {
+      "source": "Vanguard",
+      "target": "Real Madrid",
+      "relation": "COUVRE",
+      "poids": 0.7
+    },
+    {
+      "source": "Vanguard",
+      "target": "Victor Osimhen",
+      "relation": "MENTIONNE",
+      "poids": 0.7
+    },
+    {
+      "source": "Vanguard",
+      "target": "Galatasaray",
+      "relation": "MENTIONNE",
+      "poids": 0.5
+    },
+    {
+      "source": "Vanguard",
+      "target": "Arsenal",
+      "relation": "COUVRE",
+      "poids": 0.6
+    },
+    {
+      "source": "Camer.be",
+      "target": "Bukayo Saka",
+      "relation": "MENTIONNE",
+      "poids": 0.6
+    },
+    {
+      "source": "Camer.be",
+      "target": "Arsenal",
+      "relation": "COUVRE",
+      "poids": 0.7
+    },
+    {
+      "source": "CBS Sports",
+      "target": "Bayern Munich",
+      "relation": "COUVRE",
+      "poids": 0.6
+    },
+    {
+      "source": "CBS Sports",
+      "target": "PSG",
+      "relation": "COUVRE",
+      "poids": 0.6
+    },
+    {
+      "source": "CBS Sports",
+      "target": "Lamine Yamal",
+      "relation": "MENTIONNE",
+      "poids": 0.6
+    },
+    {
+      "source": "CBS Sports",
+      "target": "FC Barcelona",
+      "relation": "COUVRE",
+      "poids": 0.5
+    },
+    {
+      "source": "Bavarian Football Works",
+      "target": "Jamal Musiala",
+      "relation": "MENTIONNE",
+      "poids": 1.3
+    },
+    {
+      "source": "Bavarian Football Works",
+      "target": "Bayern Munich",
+      "relation": "COUVRE",
+      "poids": 1.4000000000000001
+    },
+    {
+      "source": "Bulinews.com",
+      "target": "Jamal Musiala",
+      "relation": "MENTIONNE",
+      "poids": 0.7999999999999999
+    },
+    {
+      "source": "Bulinews.com",
+      "target": "Bayern Munich",
+      "relation": "COUVRE",
+      "poids": 0.6
+    },
+    {
+      "source": "Bulinews.com",
+      "target": "Bayer Leverkusen",
+      "relation": "COUVRE",
+      "poids": 0.6
+    },
+    {
+      "source": "Getfootballnewsgermany.com",
+      "target": "Bayern Munich",
+      "relation": "COUVRE",
+      "poids": 0.7
+    },
+    {
+      "source": "Getfootballnewsgermany.com",
+      "target": "PSG",
+      "relation": "COUVRE",
+      "poids": 0.5
+    },
+    {
+      "source": "Dpa-international.com",
+      "target": "Bayern Munich",
+      "relation": "COUVRE",
+      "poids": 0.5
+    },
+    {
+      "source": "Get French Football News",
+      "target": "Bayern Munich",
+      "relation": "COUVRE",
+      "poids": 0.7
+    },
+    {
+      "source": "Get French Football News",
+      "target": "PSG",
+      "relation": "COUVRE",
+      "poids": 0.5
+    },
+    {
+      "source": "Israelnationalnews.com",
+      "target": "Lamine Yamal",
+      "relation": "MENTIONNE",
+      "poids": 0.7
+    },
+    {
+      "source": "Barca Blaugranes",
+      "target": "Lamine Yamal",
+      "relation": "MENTIONNE",
+      "poids": 0.5
+    },
+    {
+      "source": "Barca Blaugranes",
+      "target": "Arsenal",
+      "relation": "COUVRE",
+      "poids": 0.7
+    },
+    {
+      "source": "Footballtoday.com",
+      "target": "Florian Wirtz",
+      "relation": "MENTIONNE",
+      "poids": 0.7
+    },
+    {
+      "source": "Empire of The Kop",
+      "target": "Florian Wirtz",
+      "relation": "MENTIONNE",
+      "poids": 0.9999999999999999
+    },
+    {
+      "source": "Empire of The Kop",
+      "target": "Liverpool",
+      "relation": "COUVRE",
+      "poids": 0.9999999999999999
+    },
+    {
+      "source": "Alloutsoccer.com",
+      "target": "Florian Wirtz",
+      "relation": "MENTIONNE",
+      "poids": 0.7
+    },
+    {
+      "source": "Dailymail.com",
+      "target": "Florian Wirtz",
+      "relation": "MENTIONNE",
+      "poids": 0.5
+    },
+    {
+      "source": "The Punch",
+      "target": "Victor Osimhen",
+      "relation": "MENTIONNE",
+      "poids": 3.2000000000000015
+    },
+    {
+      "source": "The Punch",
+      "target": "Galatasaray",
+      "relation": "COUVRE",
+      "poids": 1.0999999999999999
+    },
+    {
+      "source": "The Punch",
+      "target": "Real Madrid",
+      "relation": "COUVRE",
+      "poids": 0.6
+    },
+    {
+      "source": "The Punch",
+      "target": "Arsenal",
+      "relation": "COUVRE",
+      "poids": 0.7
+    },
+    {
+      "source": "The Football Faithful",
+      "target": "Arsenal",
+      "relation": "COUVRE",
+      "poids": 0.6
+    },
+    {
+      "source": "Mino Raiola Legacy",
+      "target": "Erling Haaland",
+      "relation": "REPRESENTE",
+      "poids": 1.0
+    },
+    {
+      "source": "Badou Sambague",
+      "target": "Kylian Mbappé",
+      "relation": "REPRESENTE",
+      "poids": 1.0
+    },
+    {
+      "source": "CAA Stellar",
+      "target": "Jude Bellingham",
+      "relation": "REPRESENTE",
+      "poids": 1.0
+    },
+    {
+      "source": "CAA Stellar",
+      "target": "Bukayo Saka",
+      "relation": "REPRESENTE",
+      "poids": 1.0
+    },
+    {
+      "source": "Rogon Sportmanagement",
+      "target": "Jamal Musiala",
+      "relation": "REPRESENTE",
+      "poids": 1.0
+    },
+    {
+      "source": "Rogon Sportmanagement",
+      "target": "Florian Wirtz",
+      "relation": "REPRESENTE",
+      "poids": 1.0
+    }
+  ]
+}

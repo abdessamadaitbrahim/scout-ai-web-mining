@@ -1,0 +1,433 @@
+{
+  "nb_communautes": 10,
+  "modularite": 0.3788,
+  "communautes": {
+    "0": [
+      {
+        "noeud": "Kylian Mbappé",
+        "type": "JOUEUR"
+      },
+      {
+        "noeud": "Real Madrid",
+        "type": "CLUB"
+      },
+      {
+        "noeud": "Vinicius Junior",
+        "type": "JOUEUR"
+      },
+      {
+        "noeud": "PSG",
+        "type": "CLUB"
+      },
+      {
+        "noeud": "BILD",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "L'Équipe",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "BFMTV",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "20 Minutes",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "Le HuffPost",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "Courrier International",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "Fox Sports",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "Dazed",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "Vanity Fair",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "Brickset.com",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "101 Great Goals",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "Managing Madrid",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "dh.be",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "Challenges",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "Le Dauphiné Libéré",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "Badou Sambague",
+        "type": "AGENT"
+      }
+    ],
+    "1": [
+      {
+        "noeud": "Erling Haaland",
+        "type": "JOUEUR"
+      },
+      {
+        "noeud": "Manchester City",
+        "type": "CLUB"
+      },
+      {
+        "noeud": "Bukayo Saka",
+        "type": "JOUEUR"
+      },
+      {
+        "noeud": "Arsenal",
+        "type": "CLUB"
+      },
+      {
+        "noeud": "Mohamed Salah",
+        "type": "JOUEUR"
+      },
+      {
+        "noeud": "Liverpool",
+        "type": "CLUB"
+      },
+      {
+        "noeud": "Al-Ittihad",
+        "type": "CLUB"
+      },
+      {
+        "noeud": "Sky Sports",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "The Athletic",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "Sport1",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "SO FOOT",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "Franceinfo.fr",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "CNET",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "BBC News",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "Al Jazeera English",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "Camer.be",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "The Football Faithful",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "Premier League",
+        "type": "LIGUE"
+      },
+      {
+        "noeud": "Mino Raiola Legacy",
+        "type": "AGENT"
+      }
+    ],
+    "2": [
+      {
+        "noeud": "Jude Bellingham",
+        "type": "JOUEUR"
+      },
+      {
+        "noeud": "Lamine Yamal",
+        "type": "JOUEUR"
+      },
+      {
+        "noeud": "FC Barcelona",
+        "type": "CLUB"
+      },
+      {
+        "noeud": "Worldsoccertalk.com",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "Onefootball.com",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "Forbes",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "Yahoo Entertainment",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "Getfootballnewsspain.com",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "CBS Sports",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "Israelnationalnews.com",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "Barca Blaugranes",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "La Liga",
+        "type": "LIGUE"
+      },
+      {
+        "noeud": "CAA Stellar",
+        "type": "AGENT"
+      }
+    ],
+    "6": [
+      {
+        "noeud": "Jamal Musiala",
+        "type": "JOUEUR"
+      },
+      {
+        "noeud": "Bayern Munich",
+        "type": "CLUB"
+      },
+      {
+        "noeud": "Florian Wirtz",
+        "type": "JOUEUR"
+      },
+      {
+        "noeud": "Bayer Leverkusen",
+        "type": "CLUB"
+      },
+      {
+        "noeud": "Kicker",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "Presse-citron",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "CNA",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "Bavarian Football Works",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "Bulinews.com",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "Getfootballnewsgermany.com",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "Dpa-international.com",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "Get French Football News",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "Footballtoday.com",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "Empire of The Kop",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "Alloutsoccer.com",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "Dailymail.com",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "Bundesliga",
+        "type": "LIGUE"
+      },
+      {
+        "noeud": "Rogon Sportmanagement",
+        "type": "AGENT"
+      }
+    ],
+    "7": [
+      {
+        "noeud": "Victor Osimhen",
+        "type": "JOUEUR"
+      },
+      {
+        "noeud": "Galatasaray",
+        "type": "CLUB"
+      },
+      {
+        "noeud": "Napoli",
+        "type": "CLUB"
+      },
+      {
+        "noeud": "Lavenir.net",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "Vanguard",
+        "type": "MEDIA"
+      },
+      {
+        "noeud": "The Punch",
+        "type": "MEDIA"
+      }
+    ],
+    "8": [
+      {
+        "noeud": "Lalibre.be",
+        "type": "MEDIA"
+      }
+    ],
+    "9": [
+      {
+        "noeud": "Anfieldwatch.co.uk",
+        "type": "MEDIA"
+      }
+    ],
+    "3": [
+      {
+        "noeud": "Serie A",
+        "type": "LIGUE"
+      }
+    ],
+    "4": [
+      {
+        "noeud": "Ligue 1",
+        "type": "LIGUE"
+      }
+    ],
+    "5": [
+      {
+        "noeud": "Jorge Mendes (Gestifute)",
+        "type": "AGENT"
+      }
+    ]
+  },
+  "partition": {
+    "Kylian Mbappé": 0,
+    "Real Madrid": 0,
+    "Erling Haaland": 1,
+    "Manchester City": 1,
+    "Jude Bellingham": 2,
+    "Vinicius Junior": 0,
+    "Bukayo Saka": 1,
+    "Arsenal": 1,
+    "Jamal Musiala": 6,
+    "Bayern Munich": 6,
+    "Lamine Yamal": 2,
+    "FC Barcelona": 2,
+    "Florian Wirtz": 6,
+    "Bayer Leverkusen": 6,
+    "Victor Osimhen": 7,
+    "Galatasaray": 7,
+    "Mohamed Salah": 1,
+    "Liverpool": 1,
+    "PSG": 0,
+    "Napoli": 7,
+    "Al-Ittihad": 1,
+    "Sky Sports": 1,
+    "BILD": 0,
+    "Kicker": 6,
+    "The Athletic": 1,
+    "Sport1": 1,
+    "L'Équipe": 0,
+    "SO FOOT": 1,
+    "BFMTV": 0,
+    "Franceinfo.fr": 1,
+    "20 Minutes": 0,
+    "Le HuffPost": 0,
+    "Courrier International": 0,
+    "Presse-citron": 6,
+    "CNET": 1,
+    "Fox Sports": 0,
+    "Dazed": 0,
+    "Vanity Fair": 0,
+    "Brickset.com": 0,
+    "101 Great Goals": 0,
+    "Managing Madrid": 0,
+    "Worldsoccertalk.com": 2,
+    "Onefootball.com": 2,
+    "dh.be": 0,
+    "Lavenir.net": 7,
+    "BBC News": 1,
+    "Al Jazeera English": 1,
+    "Challenges": 0,
+    "Le Dauphiné Libéré": 0,
+    "Forbes": 2,
+    "CNA": 6,
+    "Yahoo Entertainment": 2,
+    "Getfootballnewsspain.com": 2,
+    "Lalibre.be": 8,
+    "Vanguard": 7,
+    "Camer.be": 1,
+    "CBS Sports": 2,
+    "Bavarian Football Works": 6,
+    "Bulinews.com": 6,
+    "Getfootballnewsgermany.com": 6,
+    "Dpa-international.com": 6,
+    "Get French Football News": 6,
+    "Israelnationalnews.com": 2,
+    "Barca Blaugranes": 2,
+    "Footballtoday.com": 6,
+    "Empire of The Kop": 6,
+    "Alloutsoccer.com": 6,
+    "Anfieldwatch.co.uk": 9,
+    "Dailymail.com": 6,
+    "The Punch": 7,
+    "The Football Faithful": 1,
+    "Premier League": 1,
+    "La Liga": 2,
+    "Bundesliga": 6,
+    "Serie A": 3,
+    "Ligue 1": 4,
+    "Jorge Mendes (Gestifute)": 5,
+    "Mino Raiola Legacy": 1,
+    "Badou Sambague": 0,
+    "CAA Stellar": 2,
+    "Rogon Sportmanagement": 6
+  }
+}

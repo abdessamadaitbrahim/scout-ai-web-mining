@@ -1,0 +1,659 @@
+{
+  "frequent_itemsets": [
+    {
+      "items": [
+        "commerce"
+      ],
+      "support": 0.5178
+    },
+    {
+      "items": [
+        "social"
+      ],
+      "support": 0.4287
+    },
+    {
+      "items": [
+        "profil"
+      ],
+      "support": 0.3202
+    },
+    {
+      "items": [
+        "stats"
+      ],
+      "support": 0.4332
+    },
+    {
+      "items": [
+        "news"
+      ],
+      "support": 0.5733
+    },
+    {
+      "items": [
+        "commerce",
+        "social"
+      ],
+      "support": 0.2106
+    },
+    {
+      "items": [
+        "commerce",
+        "profil"
+      ],
+      "support": 0.1616
+    },
+    {
+      "items": [
+        "commerce",
+        "stats"
+      ],
+      "support": 0.3042
+    },
+    {
+      "items": [
+        "commerce",
+        "news"
+      ],
+      "support": 0.2791
+    },
+    {
+      "items": [
+        "social",
+        "profil"
+      ],
+      "support": 0.1381
+    },
+    {
+      "items": [
+        "stats",
+        "social"
+      ],
+      "support": 0.094
+    },
+    {
+      "items": [
+        "social",
+        "news"
+      ],
+      "support": 0.2461
+    },
+    {
+      "items": [
+        "stats",
+        "profil"
+      ],
+      "support": 0.1281
+    },
+    {
+      "items": [
+        "profil",
+        "news"
+      ],
+      "support": 0.1681
+    },
+    {
+      "items": [
+        "stats",
+        "news"
+      ],
+      "support": 0.2226
+    },
+    {
+      "items": [
+        "commerce",
+        "social",
+        "profil"
+      ],
+      "support": 0.068
+    },
+    {
+      "items": [
+        "commerce",
+        "stats",
+        "social"
+      ],
+      "support": 0.051
+    },
+    {
+      "items": [
+        "commerce",
+        "social",
+        "news"
+      ],
+      "support": 0.1281
+    },
+    {
+      "items": [
+        "commerce",
+        "stats",
+        "profil"
+      ],
+      "support": 0.094
+    },
+    {
+      "items": [
+        "commerce",
+        "profil",
+        "news"
+      ],
+      "support": 0.0905
+    },
+    {
+      "items": [
+        "commerce",
+        "stats",
+        "news"
+      ],
+      "support": 0.1601
+    },
+    {
+      "items": [
+        "social",
+        "profil",
+        "news"
+      ],
+      "support": 0.08
+    },
+    {
+      "items": [
+        "stats",
+        "social",
+        "news"
+      ],
+      "support": 0.0555
+    },
+    {
+      "items": [
+        "stats",
+        "profil",
+        "news"
+      ],
+      "support": 0.0685
+    }
+  ],
+  "association_rules": [
+    {
+      "antecedent": [
+        "stats",
+        "profil"
+      ],
+      "consequent": [
+        "commerce"
+      ],
+      "support": 0.094,
+      "confidence": 0.7344,
+      "lift": 1.4184
+    },
+    {
+      "antecedent": [
+        "stats",
+        "news"
+      ],
+      "consequent": [
+        "commerce"
+      ],
+      "support": 0.1601,
+      "confidence": 0.7191,
+      "lift": 1.3889
+    },
+    {
+      "antecedent": [
+        "commerce"
+      ],
+      "consequent": [
+        "stats",
+        "news"
+      ],
+      "support": 0.1601,
+      "confidence": 0.3092,
+      "lift": 1.3889
+    },
+    {
+      "antecedent": [
+        "commerce"
+      ],
+      "consequent": [
+        "stats"
+      ],
+      "support": 0.3042,
+      "confidence": 0.5874,
+      "lift": 1.356
+    },
+    {
+      "antecedent": [
+        "stats"
+      ],
+      "consequent": [
+        "commerce"
+      ],
+      "support": 0.3042,
+      "confidence": 0.7021,
+      "lift": 1.356
+    },
+    {
+      "antecedent": [
+        "commerce",
+        "profil"
+      ],
+      "consequent": [
+        "stats"
+      ],
+      "support": 0.094,
+      "confidence": 0.582,
+      "lift": 1.3435
+    },
+    {
+      "antecedent": [
+        "commerce",
+        "news"
+      ],
+      "consequent": [
+        "stats"
+      ],
+      "support": 0.1601,
+      "confidence": 0.5735,
+      "lift": 1.3238
+    },
+    {
+      "antecedent": [
+        "stats"
+      ],
+      "consequent": [
+        "commerce",
+        "news"
+      ],
+      "support": 0.1601,
+      "confidence": 0.3695,
+      "lift": 1.3238
+    },
+    {
+      "antecedent": [
+        "profil",
+        "news"
+      ],
+      "consequent": [
+        "social"
+      ],
+      "support": 0.08,
+      "confidence": 0.4762,
+      "lift": 1.1107
+    },
+    {
+      "antecedent": [
+        "commerce",
+        "news"
+      ],
+      "consequent": [
+        "social"
+      ],
+      "support": 0.1281,
+      "confidence": 0.4588,
+      "lift": 1.0701
+    },
+    {
+      "antecedent": [
+        "commerce",
+        "social"
+      ],
+      "consequent": [
+        "news"
+      ],
+      "support": 0.1281,
+      "confidence": 0.6081,
+      "lift": 1.0607
+    },
+    {
+      "antecedent": [
+        "stats",
+        "social"
+      ],
+      "consequent": [
+        "commerce"
+      ],
+      "support": 0.051,
+      "confidence": 0.5426,
+      "lift": 1.0479
+    },
+    {
+      "antecedent": [
+        "profil",
+        "news"
+      ],
+      "consequent": [
+        "commerce"
+      ],
+      "support": 0.0905,
+      "confidence": 0.5387,
+      "lift": 1.0404
+    },
+    {
+      "antecedent": [
+        "stats",
+        "social"
+      ],
+      "consequent": [
+        "news"
+      ],
+      "support": 0.0555,
+      "confidence": 0.5904,
+      "lift": 1.0299
+    },
+    {
+      "antecedent": [
+        "social",
+        "news"
+      ],
+      "consequent": [
+        "profil"
+      ],
+      "support": 0.08,
+      "confidence": 0.3252,
+      "lift": 1.0158
+    },
+    {
+      "antecedent": [
+        "commerce",
+        "news"
+      ],
+      "consequent": [
+        "profil"
+      ],
+      "support": 0.0905,
+      "confidence": 0.3244,
+      "lift": 1.0132
+    },
+    {
+      "antecedent": [
+        "social",
+        "profil"
+      ],
+      "consequent": [
+        "news"
+      ],
+      "support": 0.08,
+      "confidence": 0.5797,
+      "lift": 1.0112
+    },
+    {
+      "antecedent": [
+        "commerce",
+        "social"
+      ],
+      "consequent": [
+        "profil"
+      ],
+      "support": 0.068,
+      "confidence": 0.323,
+      "lift": 1.009
+    },
+    {
+      "antecedent": [
+        "social"
+      ],
+      "consequent": [
+        "profil"
+      ],
+      "support": 0.1381,
+      "confidence": 0.3221,
+      "lift": 1.0059
+    },
+    {
+      "antecedent": [
+        "profil"
+      ],
+      "consequent": [
+        "social"
+      ],
+      "support": 0.1381,
+      "confidence": 0.4313,
+      "lift": 1.0059
+    },
+    {
+      "antecedent": [
+        "social",
+        "news"
+      ],
+      "consequent": [
+        "commerce"
+      ],
+      "support": 0.1281,
+      "confidence": 0.5203,
+      "lift": 1.005
+    },
+    {
+      "antecedent": [
+        "social"
+      ],
+      "consequent": [
+        "news"
+      ],
+      "support": 0.2461,
+      "confidence": 0.5741,
+      "lift": 1.0014
+    },
+    {
+      "antecedent": [
+        "news"
+      ],
+      "consequent": [
+        "social"
+      ],
+      "support": 0.2461,
+      "confidence": 0.4293,
+      "lift": 1.0014
+    },
+    {
+      "antecedent": [
+        "commerce",
+        "profil"
+      ],
+      "consequent": [
+        "social"
+      ],
+      "support": 0.068,
+      "confidence": 0.4211,
+      "lift": 0.9821
+    },
+    {
+      "antecedent": [
+        "commerce",
+        "profil"
+      ],
+      "consequent": [
+        "news"
+      ],
+      "support": 0.0905,
+      "confidence": 0.5604,
+      "lift": 0.9775
+    },
+    {
+      "antecedent": [
+        "commerce"
+      ],
+      "consequent": [
+        "profil"
+      ],
+      "support": 0.1616,
+      "confidence": 0.3121,
+      "lift": 0.9748
+    },
+    {
+      "antecedent": [
+        "profil"
+      ],
+      "consequent": [
+        "commerce"
+      ],
+      "support": 0.1616,
+      "confidence": 0.5047,
+      "lift": 0.9748
+    },
+    {
+      "antecedent": [
+        "commerce",
+        "stats"
+      ],
+      "consequent": [
+        "profil"
+      ],
+      "support": 0.094,
+      "confidence": 0.3092,
+      "lift": 0.9658
+    },
+    {
+      "antecedent": [
+        "stats",
+        "news"
+      ],
+      "consequent": [
+        "profil"
+      ],
+      "support": 0.0685,
+      "confidence": 0.3079,
+      "lift": 0.9616
+    },
+    {
+      "antecedent": [
+        "social",
+        "profil"
+      ],
+      "consequent": [
+        "commerce"
+      ],
+      "support": 0.068,
+      "confidence": 0.4928,
+      "lift": 0.9517
+    },
+    {
+      "antecedent": [
+        "commerce"
+      ],
+      "consequent": [
+        "social"
+      ],
+      "support": 0.2106,
+      "confidence": 0.4068,
+      "lift": 0.9488
+    },
+    {
+      "antecedent": [
+        "social"
+      ],
+      "consequent": [
+        "commerce"
+      ],
+      "support": 0.2106,
+      "confidence": 0.4912,
+      "lift": 0.9488
+    },
+    {
+      "antecedent": [
+        "profil",
+        "news"
+      ],
+      "consequent": [
+        "stats"
+      ],
+      "support": 0.0685,
+      "confidence": 0.4077,
+      "lift": 0.9412
+    },
+    {
+      "antecedent": [
+        "commerce"
+      ],
+      "consequent": [
+        "news"
+      ],
+      "support": 0.2791,
+      "confidence": 0.5391,
+      "lift": 0.9404
+    },
+    {
+      "antecedent": [
+        "news"
+      ],
+      "consequent": [
+        "commerce"
+      ],
+      "support": 0.2791,
+      "confidence": 0.4869,
+      "lift": 0.9404
+    },
+    {
+      "antecedent": [
+        "stats",
+        "profil"
+      ],
+      "consequent": [
+        "news"
+      ],
+      "support": 0.0685,
+      "confidence": 0.5352,
+      "lift": 0.9335
+    },
+    {
+      "antecedent": [
+        "profil"
+      ],
+      "consequent": [
+        "stats"
+      ],
+      "support": 0.1281,
+      "confidence": 0.4,
+      "lift": 0.9233
+    },
+    {
+      "antecedent": [
+        "commerce",
+        "stats"
+      ],
+      "consequent": [
+        "news"
+      ],
+      "support": 0.1601,
+      "confidence": 0.5263,
+      "lift": 0.9181
+    },
+    {
+      "antecedent": [
+        "profil"
+      ],
+      "consequent": [
+        "news"
+      ],
+      "support": 0.1681,
+      "confidence": 0.525,
+      "lift": 0.9158
+    },
+    {
+      "antecedent": [
+        "stats"
+      ],
+      "consequent": [
+        "news"
+      ],
+      "support": 0.2226,
+      "confidence": 0.5139,
+      "lift": 0.8963
+    },
+    {
+      "antecedent": [
+        "news"
+      ],
+      "consequent": [
+        "stats"
+      ],
+      "support": 0.2226,
+      "confidence": 0.3883,
+      "lift": 0.8963
+    }
+  ],
+  "params": {
+    "min_support": 0.05,
+    "min_confidence": 0.3,
+    "nb_sessions": 1999
+  }
+}

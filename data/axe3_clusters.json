@@ -1,0 +1,67 @@
+[
+  {
+    "cluster_id": 0,
+    "taille": 155,
+    "pourcentage": 31.4,
+    "nb_sessions_moyen": 4.0,
+    "duree_moyenne": 20.1,
+    "nb_joueurs_moyen": 3.9,
+    "pct_mobile": 56.8,
+    "distribution_categories": {
+      "stats": 14.0,
+      "news": 45.1,
+      "social": 14.5,
+      "commerce": 4.6,
+      "profil": 21.8
+    },
+    "segment_label": "Curieux",
+    "validation_types_reels": {
+      "curieux": 93.5,
+      "fan": 5.8,
+      "parieur": 0.6
+    }
+  },
+  {
+    "cluster_id": 1,
+    "taille": 136,
+    "pourcentage": 27.6,
+    "nb_sessions_moyen": 4.1,
+    "duree_moyenne": 44.9,
+    "nb_joueurs_moyen": 7.8,
+    "pct_mobile": 65.4,
+    "distribution_categories": {
+      "stats": 49.6,
+      "news": 10.7,
+      "social": 0.0,
+      "commerce": 34.0,
+      "profil": 5.7
+    },
+    "segment_label": "Parieur",
+    "validation_types_reels": {
+      "parieur": 99.3,
+      "curieux": 0.7
+    }
+  },
+  {
+    "cluster_id": 2,
+    "taille": 202,
+    "pourcentage": 41.0,
+    "nb_sessions_moyen": 4.1,
+    "duree_moyenne": 29.6,
+    "nb_joueurs_moyen": 6.7,
+    "pct_mobile": 83.7,
+    "distribution_categories": {
+      "stats": 5.4,
+      "news": 19.6,
+      "social": 44.1,
+      "commerce": 20.6,
+      "profil": 10.2
+    },
+    "segment_label": "Fan",
+    "validation_types_reels": {
+      "fan": 96.5,
+      "curieux": 3.0,
+      "parieur": 0.5
+    }
+  }
+]

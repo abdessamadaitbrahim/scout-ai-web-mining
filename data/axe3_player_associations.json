@@ -1,0 +1,122 @@
+[
+  {
+    "joueur_1": "Florian Wirtz",
+    "joueur_2": "Jamal Musiala",
+    "co_occurrences": 184,
+    "support": 0.092
+  },
+  {
+    "joueur_1": "Florian Wirtz",
+    "joueur_2": "Lamine Yamal",
+    "co_occurrences": 179,
+    "support": 0.0895
+  },
+  {
+    "joueur_1": "Florian Wirtz",
+    "joueur_2": "Vinicius Junior",
+    "co_occurrences": 178,
+    "support": 0.089
+  },
+  {
+    "joueur_1": "Bukayo Saka",
+    "joueur_2": "Jude Bellingham",
+    "co_occurrences": 176,
+    "support": 0.088
+  },
+  {
+    "joueur_1": "Erling Haaland",
+    "joueur_2": "Florian Wirtz",
+    "co_occurrences": 175,
+    "support": 0.0875
+  },
+  {
+    "joueur_1": "Bukayo Saka",
+    "joueur_2": "Florian Wirtz",
+    "co_occurrences": 175,
+    "support": 0.0875
+  },
+  {
+    "joueur_1": "Florian Wirtz",
+    "joueur_2": "Kylian Mbappé",
+    "co_occurrences": 174,
+    "support": 0.087
+  },
+  {
+    "joueur_1": "Florian Wirtz",
+    "joueur_2": "Victor Osimhen",
+    "co_occurrences": 174,
+    "support": 0.087
+  },
+  {
+    "joueur_1": "Jude Bellingham",
+    "joueur_2": "Mohamed Salah",
+    "co_occurrences": 172,
+    "support": 0.086
+  },
+  {
+    "joueur_1": "Erling Haaland",
+    "joueur_2": "Lamine Yamal",
+    "co_occurrences": 169,
+    "support": 0.0845
+  },
+  {
+    "joueur_1": "Jamal Musiala",
+    "joueur_2": "Jude Bellingham",
+    "co_occurrences": 169,
+    "support": 0.0845
+  },
+  {
+    "joueur_1": "Bukayo Saka",
+    "joueur_2": "Victor Osimhen",
+    "co_occurrences": 168,
+    "support": 0.084
+  },
+  {
+    "joueur_1": "Bukayo Saka",
+    "joueur_2": "Vinicius Junior",
+    "co_occurrences": 168,
+    "support": 0.084
+  },
+  {
+    "joueur_1": "Erling Haaland",
+    "joueur_2": "Vinicius Junior",
+    "co_occurrences": 167,
+    "support": 0.0835
+  },
+  {
+    "joueur_1": "Bukayo Saka",
+    "joueur_2": "Erling Haaland",
+    "co_occurrences": 167,
+    "support": 0.0835
+  },
+  {
+    "joueur_1": "Erling Haaland",
+    "joueur_2": "Jude Bellingham",
+    "co_occurrences": 167,
+    "support": 0.0835
+  },
+  {
+    "joueur_1": "Jamal Musiala",
+    "joueur_2": "Victor Osimhen",
+    "co_occurrences": 167,
+    "support": 0.0835
+  },
+  {
+    "joueur_1": "Jude Bellingham",
+    "joueur_2": "Lamine Yamal",
+    "co_occurrences": 166,
+    "support": 0.083
+  },
+  {
+    "joueur_1": "Florian Wirtz",
+    "joueur_2": "Jude Bellingham",
+    "co_occurrences": 166,
+    "support": 0.083
+  },
+  {
+    "joueur_1": "Bukayo Saka",
+    "joueur_2": "Jamal Musiala",
+    "co_occurrences": 166,
+    "support": 0.083
+  }
+]

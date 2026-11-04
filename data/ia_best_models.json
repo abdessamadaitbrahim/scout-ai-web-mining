@@ -1,0 +1,122 @@
+{
+  "best_model": "Random Forest",
+  "metrics": {
+    "r2_test": 0.8804,
+    "mae_test": 8.7458,
+    "rmse_test": 9.8716,
+    "cv_r2_mean": 0.8905,
+    "cv_r2_std": 0.0462,
+    "cv_mae_mean": 7.4323
+  },
+  "all_models": {
+    "Random Forest": {
+      "r2_test": 0.8804,
+      "mae_test": 8.7458,
+      "rmse_test": 9.8716,
+      "cv_r2_mean": 0.8905,
+      "cv_r2_std": 0.0462,
+      "cv_mae_mean": 7.4323
+    },
+    "SVR": {
+      "r2_test": 0.7995,
+      "mae_test": 11.5863,
+      "rmse_test": 12.7821,
+      "cv_r2_mean": 0.9057,
+      "cv_r2_std": 0.0292,
+      "cv_mae_mean": 7.5491
+    },
+    "Gradient Boosting": {
+      "r2_test": 0.8628,
+      "mae_test": 9.1299,
+      "rmse_test": 10.5724,
+      "cv_r2_mean": 0.8428,
+      "cv_r2_std": 0.0847,
+      "cv_mae_mean": 8.6265
+    }
+  },
+  "feature_importance": {
+    "mentions": 0.4465,
+    "nb_vues": 0.2981,
+    "cote_popularite": 0.1581,
+    "authority_score": 0.0362,
+    "pagerank": 0.0334,
+    "diversite_sources": 0.0165,
+    "sentiment_moyen": 0.0073,
+    "nb_rumeurs": 0.004
+  },
+  "feature_cols": [
+    "mentions",
+    "sentiment_moyen",
+    "diversite_sources",
+    "cote_popularite",
+    "nb_rumeurs",
+    "pagerank",
+    "authority_score",
+    "nb_vues"
+  ],
+  "n_training_samples": 100,
+  "n_real_players": 10,
+  "date": "2026-05-19T23:52:41.915288",
+  "classement": [
+    {
+      "rang": 1,
+      "joueur": "Kylian Mbappé",
+      "score": 63.14,
+      "categorie": "⚡ En hausse"
+    },
+    {
+      "rang": 2,
+      "joueur": "Lamine Yamal",
+      "score": 63.04,
+      "categorie": "⚡ En hausse"
+    },
+    {
+      "rang": 3,
+      "joueur": "Victor Osimhen",
+      "score": 62.4,
+      "categorie": "⚡ En hausse"
+    },
+    {
+      "rang": 4,
+      "joueur": "Mohamed Salah",
+      "score": 50.27,
+      "categorie": "⚡ En hausse"
+    },
+    {
+      "rang": 5,
+      "joueur": "Bukayo Saka",
+      "score": 49.2,
+      "categorie": "💎 Sous-évalué"
+    },
+    {
+      "rang": 6,
+      "joueur": "Vinicius Junior",
+      "score": 48.33,
+      "categorie": "💎 Sous-évalué"
+    },
+    {
+      "rang": 7,
+      "joueur": "Florian Wirtz",
+      "score": 47.73,
+      "categorie": "💎 Sous-évalué"
+    },
+    {
+      "rang": 8,
+      "joueur": "Jude Bellingham",
+      "score": 47.41,
+      "categorie": "💎 Sous-évalué"
+    },
+    {
+      "rang": 9,
+      "joueur": "Jamal Musiala",
+      "score": 45.16,
+      "categorie": "💎 Sous-évalué"
+    },
+    {
+      "rang": 10,
+      "joueur": "Erling Haaland",
+      "score": 43.43,
+      "categorie": "💎 Sous-évalué"
+    }
+  ]
+}

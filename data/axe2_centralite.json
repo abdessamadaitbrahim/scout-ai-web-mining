@@ -1,0 +1,731 @@
+[
+  {
+    "noeud": "La Liga",
+    "type": "LIGUE",
+    "in_degree": 0.025,
+    "out_degree": 0.0,
+    "betweenness": 0.0,
+    "closeness": 0.274316,
+    "pagerank": 0.116372
+  },
+  {
+    "noeud": "Real Madrid",
+    "type": "CLUB",
+    "in_degree": 0.3625,
+    "out_degree": 0.0125,
+    "betweenness": 0.007041,
+    "closeness": 0.397647,
+    "pagerank": 0.109648
+  },
+  {
+    "noeud": "Premier League",
+    "type": "LIGUE",
+    "in_degree": 0.0375,
+    "out_degree": 0.0,
+    "betweenness": 0.0,
+    "closeness": 0.220109,
+    "pagerank": 0.069576
+  },
+  {
+    "noeud": "Bayern Munich",
+    "type": "CLUB",
+    "in_degree": 0.225,
+    "out_degree": 0.025,
+    "betweenness": 0.008703,
+    "closeness": 0.222256,
+    "pagerank": 0.043625
+  },
+  {
+    "noeud": "Manchester City",
+    "type": "CLUB",
+    "in_degree": 0.1625,
+    "out_degree": 0.0125,
+    "betweenness": 0.004193,
+    "closeness": 0.265663,
+    "pagerank": 0.041854
+  },
+  {
+    "noeud": "Bundesliga",
+    "type": "LIGUE",
+    "in_degree": 0.025,
+    "out_degree": 0.0,
+    "betweenness": 0.0,
+    "closeness": 0.160656,
+    "pagerank": 0.041153
+  },
+  {
+    "noeud": "Kylian Mbappé",
+    "type": "JOUEUR",
+    "in_degree": 0.2125,
+    "out_degree": 0.0125,
+    "betweenness": 0.000949,
+    "closeness": 0.2125,
+    "pagerank": 0.031926
+  },
+  {
+    "noeud": "Arsenal",
+    "type": "CLUB",
+    "in_degree": 0.2,
+    "out_degree": 0.025,
+    "betweenness": 0.003006,
+    "closeness": 0.200694,
+    "pagerank": 0.031881
+  },
+  {
+    "noeud": "FC Barcelona",
+    "type": "CLUB",
+    "in_degree": 0.0625,
+    "out_degree": 0.025,
+    "betweenness": 0.002927,
+    "closeness": 0.1125,
+    "pagerank": 0.025919
+  },
+  {
+    "noeud": "Bayer Leverkusen",
+    "type": "CLUB",
+    "in_degree": 0.0375,
+    "out_degree": 0.0375,
+    "betweenness": 0.006487,
+    "closeness": 0.073529,
+    "pagerank": 0.02553
+  },
+  {
+    "noeud": "PSG",
+    "type": "CLUB",
+    "in_degree": 0.1625,
+    "out_degree": 0.0125,
+    "betweenness": 0.002373,
+    "closeness": 0.163514,
+    "pagerank": 0.023798
+  },
+  {
+    "noeud": "Florian Wirtz",
+    "type": "JOUEUR",
+    "in_degree": 0.1,
+    "out_degree": 0.0125,
+    "betweenness": 0.005459,
+    "closeness": 0.1,
+    "pagerank": 0.022262
+  },
+  {
+    "noeud": "Lamine Yamal",
+    "type": "JOUEUR",
+    "in_degree": 0.175,
+    "out_degree": 0.0125,
+    "betweenness": 0.003244,
+    "closeness": 0.175,
+    "pagerank": 0.021354
+  },
+  {
+    "noeud": "Galatasaray",
+    "type": "CLUB",
+    "in_degree": 0.0875,
+    "out_degree": 0.0,
+    "betweenness": 0.0,
+    "closeness": 0.088889,
+    "pagerank": 0.019729
+  },
+  {
+    "noeud": "Liverpool",
+    "type": "CLUB",
+    "in_degree": 0.0875,
+    "out_degree": 0.025,
+    "betweenness": 0.002453,
+    "closeness": 0.100833,
+    "pagerank": 0.015717
+  },
+  {
+    "noeud": "Jude Bellingham",
+    "type": "JOUEUR",
+    "in_degree": 0.0875,
+    "out_degree": 0.0125,
+    "betweenness": 0.001028,
+    "closeness": 0.0875,
+    "pagerank": 0.012039
+  },
+  {
+    "noeud": "Jamal Musiala",
+    "type": "JOUEUR",
+    "in_degree": 0.0625,
+    "out_degree": 0.0125,
+    "betweenness": 0.00087,
+    "closeness": 0.0625,
+    "pagerank": 0.011246
+  },
+  {
+    "noeud": "Bukayo Saka",
+    "type": "JOUEUR",
+    "in_degree": 0.1,
+    "out_degree": 0.0125,
+    "betweenness": 0.001108,
+    "closeness": 0.1,
+    "pagerank": 0.010562
+  },
+  {
+    "noeud": "Erling Haaland",
+    "type": "JOUEUR",
+    "in_degree": 0.0625,
+    "out_degree": 0.0125,
+    "betweenness": 0.000316,
+    "closeness": 0.0625,
+    "pagerank": 0.010324
+  },
+  {
+    "noeud": "Al-Ittihad",
+    "type": "CLUB",
+    "in_degree": 0.025,
+    "out_degree": 0.0,
+    "betweenness": 0.0,
+    "closeness": 0.072,
+    "pagerank": 0.010115
+  },
+  {
+    "noeud": "Victor Osimhen",
+    "type": "JOUEUR",
+    "in_degree": 0.075,
+    "out_degree": 0.0125,
+    "betweenness": 0.000158,
+    "closeness": 0.075,
+    "pagerank": 0.009228
+  },
+  {
+    "noeud": "Vinicius Junior",
+    "type": "JOUEUR",
+    "in_degree": 0.075,
+    "out_degree": 0.0125,
+    "betweenness": 0.000633,
+    "closeness": 0.075,
+    "pagerank": 0.008292
+  },
+  {
+    "noeud": "Mohamed Salah",
+    "type": "JOUEUR",
+    "in_degree": 0.075,
+    "out_degree": 0.0125,
+    "betweenness": 0.001108,
+    "closeness": 0.075,
+    "pagerank": 0.007371
+  },
+  {
+    "noeud": "Le HuffPost",
+    "type": "MEDIA",
+    "in_degree": 0.0125,
+    "out_degree": 0.0375,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.006039
+  },
+  {
+    "noeud": "Sky Sports",
+    "type": "MEDIA",
+    "in_degree": 0.0125,
+    "out_degree": 0.1125,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.005207
+  },
+  {
+    "noeud": "Napoli",
+    "type": "CLUB",
+    "in_degree": 0.0125,
+    "out_degree": 0.0125,
+    "betweenness": 0.0,
+    "closeness": 0.0125,
+    "pagerank": 0.005021
+  },
+  {
+    "noeud": "BILD",
+    "type": "MEDIA",
+    "in_degree": 0.0125,
+    "out_degree": 0.0125,
+    "betweenness": 0.000316,
+    "closeness": 0.0125,
+    "pagerank": 0.00501
+  },
+  {
+    "noeud": "Kicker",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.0125,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "The Athletic",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.0125,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "Sport1",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.0125,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "L'Équipe",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.0125,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "SO FOOT",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.1625,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "BFMTV",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.125,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "Franceinfo.fr",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.1125,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "20 Minutes",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.0375,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "Courrier International",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.025,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "Presse-citron",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.025,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "CNET",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.0375,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "Fox Sports",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.025,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "Dazed",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.025,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "Vanity Fair",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.0125,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "Brickset.com",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.0375,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "101 Great Goals",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.025,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "Managing Madrid",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.025,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "Worldsoccertalk.com",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.0875,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "Onefootball.com",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.05,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "dh.be",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.175,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "Lavenir.net",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.075,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "BBC News",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.15,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "Al Jazeera English",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.1,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "Challenges",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.025,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "Le Dauphiné Libéré",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.05,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "Forbes",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.0375,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "CNA",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.025,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "Yahoo Entertainment",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.075,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "Getfootballnewsspain.com",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.025,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "Lalibre.be",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "Vanguard",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.0625,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "Camer.be",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.025,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "CBS Sports",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.05,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "Bavarian Football Works",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.025,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "Bulinews.com",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.0375,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "Getfootballnewsgermany.com",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.025,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "Dpa-international.com",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.0125,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "Get French Football News",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.025,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "Israelnationalnews.com",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.0125,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "Barca Blaugranes",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.025,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "Footballtoday.com",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.0125,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "Empire of The Kop",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.025,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "Alloutsoccer.com",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.0125,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "Anfieldwatch.co.uk",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "Dailymail.com",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.0125,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "The Punch",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.05,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "The Football Faithful",
+    "type": "MEDIA",
+    "in_degree": 0.0,
+    "out_degree": 0.0125,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "Serie A",
+    "type": "LIGUE",
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "Ligue 1",
+    "type": "LIGUE",
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "Jorge Mendes (Gestifute)",
+    "type": "AGENT",
+    "in_degree": 0.0,
+    "out_degree": 0.0,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "Mino Raiola Legacy",
+    "type": "AGENT",
+    "in_degree": 0.0,
+    "out_degree": 0.0125,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "Badou Sambague",
+    "type": "AGENT",
+    "in_degree": 0.0,
+    "out_degree": 0.0125,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "CAA Stellar",
+    "type": "AGENT",
+    "in_degree": 0.0,
+    "out_degree": 0.025,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  },
+  {
+    "noeud": "Rogon Sportmanagement",
+    "type": "AGENT",
+    "in_degree": 0.0,
+    "out_degree": 0.025,
+    "betweenness": 0.0,
+    "closeness": 0.0,
+    "pagerank": 0.0048
+  }
+]
